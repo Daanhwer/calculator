@@ -1,0 +1,63 @@
+h3 {
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+body {
+    height: 100%;
+    padding: 12px 20px;
+    margin: 20px 0px;
+    box-sizing: border-box;
+    border-color: burlywood;
+    border-radius: 100%;
+    background-origin: padding-box;
+    width: auto background-color: #ebebeb;
+    font-size: 20px;
+    font-family: Verdana;
+}
+
+hr {
+    color: red;
+}
+
+input[type=number] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid brown;
+    border-radius: 15px;
+    color: blue;
+}
+
+input[type=radio] {
+    border: 10px solid brown;
+    width: fit-content;
+    border-color: brown;
+    box-sizing: border-box;
+    box-shadow: inset;
+    color: brown;
+    background-color: #3CBC8D;
+    border-radius: 35px;
+    box-decoration-break: slice;
+}
+
+input[type=submit] {
+    width: 100%;
+    background-color: #04AA6D;
+    border: 2px solid brown;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: wavy;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 15px;
+    border-style: ridge;
+    transform-box: fill-box;
+    text-shadow: brown;
+}
+
+footer {
+    text-align: center;
+}
